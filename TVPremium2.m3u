@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1,Canales Basicos
+
+#EXTINF:-1,canal WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w358652913_b1500000_slen.m3u8
+
+#EXTINF:-4,canal 25
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w631738549.m3u8
+
+#EXTINF:-4,TUTV
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8?nimblesessionid=3624280
+
+#EXTINF:-4,Canal 33
+https://5e50264bd6766.streamlock.net/canal33/smil:canal33.smil/chunklist_w1595039644_b3428000_DVR_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDg6NTA6MTQgUE0maGFzaF92YWx1ZT01b1BES09TRkcxVWpybDRvSWgvQVBnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+
+#EXTINF:-1 tvg-id="VTVCanal35.sv" tvg-name="VTV Canal 35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="",VTV Canal 35
+http://magmas5.com:8000/malotv/gratis/126539
+
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-name="Canal 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="",CANAL 4
+http://magmas5.com:8000/malotv/gratis/126540
+
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Canal 19" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png" group-title="",Canal 19
+http://magmas5.com:8000/malotv/gratis/126541
+
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-name="Canal  21" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador-en-vivo-Online.png" group-title="",Canal  21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-name="CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="",CANAL 6
+http://magmas5.com:8000/malotv/gratis/126543
+
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-name="CANAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="",CANAL 2
+http://magmas5.com:8000/malotv/gratis/126544
+
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="CANAL 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Canal_12_El_Salvador_2010.png/1200px-Canal_12_El_Salvador_2010.png" group-title="",CANAL 12
+http://magmas5.com:8000/malotv/gratis/126545
+
+#EXTINF:-1 tvg-id="VTVCanal35.sv" tvg-name="VTV CANAL 35 HD" tvg-logo="" group-title="",VTV CANAL 35 HD
+http://magmas5.com:8000/malotv/gratis/126546
+
+#EXTINF:-1,canal TVX
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvsECggCgfB3kp54shXY6mkVFMSa68IoZVUh0LpxkZf4p6NDWy1TJBfVUHfRdUJXvSgGoTFreu2Ho-mgxkvsptc5PxvbUbYGvruPjUc_K9ka86LiZilg99fExCmyY_rPfGmyruR9Q1vqbBIZa1kOlIXH3VblOj8rQB3dhiTc3iMxNxNIhPCzHWHF4VAh74rkYghnohOAxn949iiNmi3PweoFuHXwOp3bMLqr0SbJZTkqxYCvuIckFeLmZ6lc098IBaqY9znXmb7wUF7HTt5A527tOdihIE4O0PrR89bA6q7A2FYede9M80O5SDG81u39cU0W1aPKdZhuC9wAeFf6_RgXNYWntkkh2_veH6R7nfolwI2tb3sCHAmor2FE3FVL7_ka1t59-xLp2MChE4NytWVybdERma2-SImubZyFLjD9TYXA974tfXBdsiO1KaF-G5_2ca9kfkx9npHgJI8-po8Z6OpBczfliR6IL34PBKMuFLTJy4L5QNxvaRS9G5QsMoTSsRlsev0IURjClp34nsxOtEYR4EjRlKoNPBiuHmk6Chi4U5BYemUfMhplBmylEF9lSiVJQ9U1HaVeJb2AJqL9kYN4VJNa9yuMl0PF1U5_prV6qb862FwINm69cahCJN8-ULn1nyXniQL6LCzE7MPg7_A-HUO6M3OD3Jdst-5vSXWA5QdiS1grt9mYcMzLzCL_enXFI7PGtjgcv_eBccoA0daxmuw0rnAflV9Mi-5tug5eqNK71ysfQHWLfxy8zJJDPG1vAJ9_1j7C2MSM4PyDPMNcpedsvIaCeinaB--3TRBfs-hK3P_cgkzaidZM2omThvc5sUE884hACIUaDFhZzhYgfdM9en-qVCABKgl1cy1lYXN0LTIwpAU.m3u8
+
+#EXTM3U
+#EXTINF:-1,Deportes
+
+#EXTINF:-1,Canal 13
+http://45.232.210.1:8062/play/a088/index.m3u8
+
+#EXTINF:-1,TNT Sports 1
+http://45.232.210.1:8062/play/a08x/index.m3u8
+
+#EXTINF:-1,TNT SPORTS HD
+http://45.232.210.1:8062/play/a05l/index.m3u8
+
+#EXTINF:-1,TNT SPORTS 2 
+http://45.232.210.1:8062/play/a08a/index.m3u8
+
+#EXTINF:-1,CHV HD
+http://45.232.210.1:8062/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png/640px-Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="",MOVISTAR PLUS
+http://magmas5.com:8000/malotv/gratis/4830
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="",MovistarDeportes
+http://magmas5.com:8000/malotv/gratis/4836
+
+#EXTINF:-1,Claro Sports
+https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/f27f5e80-97d9-4283-91d7-97912dbfa610:MRN2/variant/0613d01355b5aad088e6dac2d2395232/bandwidth/7654000.m3u8
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="",WIN SPORTS
+http://magmas5.com:8000/malotv/gratis/131985
+
+#EXTINF:-1,TyCSports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
+#EXTINF:-1,GolTV
+http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8 
+
+#EXTINF:-1,directv
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8 
+
+#EXTINF:-1,directv2
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8 
+
+#EXTINF:-1,Directv+
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
+
+#EXTINF:-1,Gol Peru
+http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
+
+#EXTINF:-1,espn
+http://tv.teleclub.xyz/stream/Deportes/ESPN_MX/index.m3u8 
+
+#EXTINF:-1,espn2
+http://tv.teleclub.xyz/stream/Deportes/ESPN_2_MX/index.m3u8 
+
+#EXTINF:-1,espn 4
+http://45.232.210.1:8062/play/a08s/index.m3u8
+
+#EXTINF:-1,espn 3
+http://tv.teleclub.xyz/stream/Deportes/ESPN_3_MX/index.m3u8
+
+#EXTINF:-1,espn extra
+http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
+
+#EXTINF:-1,fox sports
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_MX/index.m3u8
+
+#EXTINF:-1,fox sports 2
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
+
+#EXTINF:-1,fox Sports 3
+http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
+
+#EXTINF:-1,TUDN
+http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8 
+
+#EXTINF:-1,Afizzionados
+http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
+
+#EXTINF:-1,Bein Sports
+http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,Infantiles
+
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="",CARTOON NETWORK
+http://magmas5.com:8000/malotv/gratis/4850
+
+#EXTINF:-1,Disney Channel
+http://45.232.210.1:8062/play/a08n/index.m3u8
+
+#EXTINF:-1,Bitme
+http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
+
+#EXTINF:-1,Disney Jr
+http://45.232.210.1:8062/play/a08j/index.m3u8
+
+#EXTINF:-1,Discovery Kids
+http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="",DISNEY XD
+http://magmas5.com:8000/malotv/gratis/4793
+
+#EXTINF:-1 tvg-id="NickJrSouth.us" tvg-name="NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="",NICK JR
+http://magmas5.com:8000/malotv/gratis/4858
+
+#EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-name="NICKELODEON" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="",NICKELODEON
+http://magmas5.com:8000/malotv/gratis/4859
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABY FIRST" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="",BABY FIRST SD
+http://magmas5.com:8000/malotv/gratis/4914
+
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="",TOONCAST
+http://magmas5.com:8000/malotv/gratis/5064
+
+#EXTINF:-1,Comedy Central
+http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,Entretenimiento
+
+#EXTINF:-1,Sony
+http://tv.teleclub.xyz/stream/Entretenimiento/SONY/index.m3u8 
+
+#EXTINF:-1,Cinecanal
+http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8 
+
+#EXTINF:-1,HBO
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8 
+
+#EXTINF:-1,HBO 2
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_2/index.m3u8 
+
+#EXTINF:-1,HBO Pop
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_POP/index.m3u8
+
+#EXTINF:-1,HBO Xtreme
+http://45.232.210.1:8062/play/a08h/index.m3u8
+
+#EXTINF:-1,HBO Family
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1,Golden 
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN/index.m3u8 
+
+#EXTINF:-1,Golden Edge
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_EDGE/index.m3u8 
+
+#EXTINF:-1,Golden Premier
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
+
+#EXTINF:-1,Golden Plus
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PLUS/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="",ATV
+http://magmas5.com:8000/malotv/gratis/4843
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="",AXN
+http://magmas5.com:8000/malotv/gratis/4844
+
+#EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="CANAL CLARO" tvg-logo="https://deultimahorard.com/wp-content/uploads/2020/04/claro.png" group-title="",CANAL CLARO
+http://magmas5.com:8000/malotv/gratis/4848
+
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SYFY" tvg-logo="" group-title="",SYFY
+http://magmas5.com:8000/malotv/gratis/4943
+
+#EXTINF:-1,Warner
+http://45.232.210.1:8062/play/a08q/index.m3u8
+
+#EXTINF:-1,TNT HD
+http://45.232.210.1:8062/play/tnthd/index.m3u8
+
+#EXTINF:-1,De Peliculas
+http://tv.teleclub.xyz/stream/Entretenimiento/DEPELICULA/index.m3u8
+
+#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="SPACE" tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="",SPACE
+http://magmas5.com:8000/malotv/gratis/4802
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="",TBS
+http://magmas5.com:8000/malotv/gratis/4803
+
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="",CINECANAL
+http://magmas5.com:8000/malotv/gratis/4805
+
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.imgur.com/8fdvFWP.png" group-title="",CINEMA DINAMITA
+http://magmas5.com:8000/malotv/gratis/4806
+
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="",CINEMAX
+http://magmas5.com:8000/malotv/gratis/4807
+
+#EXTINF:-1,AE
+http://45.232.210.1:8062/play/a08y/index.m3u8
+
+#EXTINF:-1,LA RED HD
+http://45.232.210.1:8062/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="UNIVERSAL CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="",UNIVERSAL CRIME
+http://magmas5.com:8000/malotv/gratis/4947
+
+#EXTINF:-1,Universal Reality
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+
+#EXTINF:-1,Universal Premiere
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+
+#EXTINF:-1,Universal TV
+http://45.232.210.1:8062/play/a09d/index.m3u8
+
+#EXTINF:-1,Universal Studio
+http://tv.teleclub.xyz/stream/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="",STAR CHANNEL
+http://magmas5.com:8000/malotv/gratis/4781
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" ="",FX
+http://magmas5.com:8000/malotv/gratis/4788
+
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA" tvg-logo="https://anthoncode.com/wp-content/uploads/2020/07/logo-mega-nz.png" group-title="",MEGA
+http://magmas5.com:8000/malotv/gratis/4855
+
+#EXTINF:-1,E Entertainment
+http://45.232.210.1:8062/play/a08r/index.m3u8
+
+#EXTINF:-1,TLC
+http://tv.teleclub.xyz/stream/Cultura/TLC/index.m3u8
+
+#EXTINF:-1,Paramount
+http://tv.teleclub.xyz/stream/Entretenimiento/PARAMOUNT/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,Cultura
+
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="",History2
+http://magmas5.com:8000/malotv/gratis/4960
+
+#EXTM3U
+#EXTINF:-1,National Geographic
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoQFIkUodMiFKQVmy7gieScugdsLlJpoHHdmA5qypEDSyBgGcWrMaxDd2hG9wsOKLa0sFyF9TjyM2QUMsZW5MramGeSwyzs0H1S7Hne5FUog1n4xTnS9TX4UURn7xKpbDd1Uc1HaxqQ7j6R9t-Oi3lp1p-_mfgibivhdGrfYRC2EeB3enVfFE3Jf8w7X4yl8h4q-y9PrbvaP9IA57ltNEs2U5kvnEIDr2vaosJHHBwG4fkTUTrtkUyezTBR_DDWuNlRA4SLq5OBU40kDz3O13dt-Rdc2dQ97ObTz5QYAIXEracLeR4nbevEK_8LmBVqidq2c_es_AvJWMcxK-boB-nRZHcjoer1EjkfOxb94HlLczeSFFbAoWSigxek2W40ryqJtODPRAmQSXHvwjoZlVqeQol5Yi3hSZ1PVb6yvowI_6jnqBFXjBHQhGUOwEhAMvR9YFSji5xmPtl5JDoFAApal0zWRFIaG0dQ5nKB7lTwEbhXZWSyUwfLk7kx7AFYt4KuFPQxsX36VuwJt-4qMXYCkfqGH5Sjj3Usqi-ptE0dE-pWw0JwnDAkpDN3Vzt8TF6yz_PuwlO0HGcEXFZ9bUw7Bpm2w0KX9JpTjLn2OyLwASxS_0zFX05grUBW13dfKdzS8zhhjsDwLV_27zPybmiEMtfPtzuNMXgxtAL_ycI0tT2X_xp0B6Agch-4dvEfHQFFPOAxaWMiSeHUACQF2wOZN7Ah-5fqR_pBccpkKckL9yG_07ySsuz75LbWudvsRazsF6afmzsJ8p9lDf56snQGIJCaNtYTb4w2tkHVURUEon3qJ9VT0NIYrbPEJgjiCGb5ESe3H2viZnID9MaO4r7RtQ4wgLFsaDIY_UOcdKhNax1F8lyABKglldS13ZXN0LTIwpgU.m3u8
+
+#EXTINF:-1,History Channel
+http://45.232.210.1:8062/play/a09b/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://45.232.210.1:8062/play/a08p/index.m3u8
+
+#EXTINF:-1,Discovery channel
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
+
+#EXTINF:-1,Discovery theater
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8 
+
+#EXTINF:-1,discovery world
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8 
+
+#EXTINF:-1,discovery turbo
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1,discovery sciences
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
+
+#EXTINF:-1,discovery id
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
+
+#EXTINF:-1,el gourmet
+http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
+
+#EXTINF:-1,distrito comedia
+http://tv.teleclub.xyz/stream/Cultura/DISTRITO_COMEDIA/index.m3u8
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,Musica
+
+#EXTINF:-1,MTV
+http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8 
+
+#EXTINF:-1,MTV hits
+http://tv.teleclub.xyz/stream/Musica/MTV_HITS/index.m3u8 
+
+#EXTINF:-1,MTV live
+http://tv.teleclub.xyz/stream/Musica/MTV_LIVE/index.m3u8  
+
+#EXTINF:-1,mtv classic
+http://tv.teleclub.xyz/stream/Musica/MTV_CLASSIC/index.m3u8 
+
+#EXTINF:-1,Bandamax
+http://tv.teleclub.xyz/stream/Musica/BANDAMAX/index.m3u8 
+
+#EXTINF:-1,Nick Music
+http://tv.teleclub.xyz/stream/Musica/NICK_MUSIC/index.m3u8
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,Series 24/7
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="https://designlogovector.com/wp-content/uploads/2020/04/The-Simpsons-designlogovectorcom.png" group-title="Serie",Los Simpsons
+http://magmas5.com:8000/malotv/gratis/129313
+
+#EXTINF:-1 tvg-id="" tvg-name="EL Chavo del 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="Serie",El Chavo del 8*
+http://magmas5.com:8000/malotv/gratis/129315
+
+#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://fanart.tv/fanart/tv/75897/clearart/SouthPark-75897-2.png" group-title="Serie",South Park
+http://tv.teleclub.xyz/stream/24_7/SOUTH_PARK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cantinflas" tvg-logo="https://k60.kn3.net/taringa/4/E/C/A/6/9/JonBizar/B1C.png" group-title="Serie",Cantinflas
+http://magmas5.com:8000/malotv/gratis/129320
+
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo" tvg-logo="https://www.pngitem.com/pimgs/m/18-184162_scooby-doo-logo-scooby-doo-logo-png-transparent.png" group-title="Serie",Scooby-Doo
+http://magmas5.com:8000/malotv/gratis/3385
+
+#EXTINF:-1 tvg-id="" tvg-name="Chespirito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Serie",Chespirito
+http://magmas5.com:8000/malotv/gratis/129322
+
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulín Colorado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Serie",El Chapulín Colorado
+http://magmas5.com:8000/malotv/gratis/129323
+
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://www.kindpng.com/picc/m/2-24125_pokemon-logo-transparent-hd-png-download.png" group-title="Serie",Pokémon
+http://magmas5.com:8000/malotv/gratis/129325
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png" group-title="Serie",Dragon Ball Super
+http://magmas5.com:8000/malotv/gratis/129326
+
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Tom_and_Jerry_2021.jpg" group-title="Serie",Tom and Jerry
+http://magmas5.com:8000/malotv/gratis/129327
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="Serie",Dragon Ball
+http://magmas5.com:8000/malotv/gratis/129328
+
+#EXTINF:-1,ALF
+http://tv.teleclub.xyz/stream/24_7/ALF/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="Serie",Dragon Ball Z
+http://magmas5.com:8000/malotv/gratis/129329
+
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png" group-title="Serie",Bob Esponja
+http://magmas5.com:8000/malotv/gratis/129332
+
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="Serie",DRAGON BALL GT
+http://magmas5.com:8000/malotv/gratis/129334
+
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold!" tvg-logo="https://fanart.tv/fanart/tv/72005/clearlogo/HeyArnold-72005.png" group-title="Serie",Hey Arnold!
+http://magmas5.com:8000/malotv/gratis/129337
+
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera Rosa" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="Serie",La Pantera Rosa
+http://magmas5.com:8000/malotv/gratis/129347
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/640px-The_Flintstones_logo.svg.png" group-title="Serie",Los Picapiedra
+http://magmas5.com:8000/malotv/gratis/129349
+
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Animado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="Serie",El Chavo Animado
+http://magmas5.com:8000/malotv/gratis/131452
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mr._Bean_%28animated_TV_series%29_logo.svg/1280px-Mr._Bean_%28animated_TV_series%29_logo.svg.png" group-title="Serie",Mr. Bean
+http://magmas5.com:8000/malotv/gratis/3391
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/family-guy-1-logo-png-transparent.png" group-title="Serie",Family Guy
+http://magmas5.com:8000/malotv/gratis/3406
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman La serie animada" tvg-logo="https://batman-on-film.com/wp-content/uploads/2018/03/batman-the-animated-series.png" group-title="Serie",Batman serie animada
+http://magmas5.com:8000/malotv/gratis/3361
+
+#EXTINF:-1 tvg-id="" tvg-name="Looney" tvg-logo="https://batman-on-film.com/wp-content/uploads/2018/03/batman-the-animated-series.png" group-title="Serie",Looney
+http://magmas5.com:8000/malotv/gratis/129338
+
+#EXTINF:-1,La Familia Peluche
+http://tv.teleclub.xyz/stream/24_7/FAMILIA_PELUCHE/index.m3u8
+
+#EXTM3U
+#EXTINF:-1,Otros
+
+#EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="CANAL CLARO" tvg-logo="https://deultimahorard.com/wp-content/uploads/2020/04/claro.png" group-title="",CANAL CLARO
+http://magmas5.com:8000/malotv/gratis/4848
+
+#EXTINF:-1,RCN Novelas
+http://45.232.210.1:8062/play/a09u/index.m3u8
+
+#EXTINF:-1,Sin Limites
+http://45.232.210.1:8062/play/a0a9/index.m3u8
+
+#EXTINF:-1,Telemundo Internacional
+http://45.232.210.1:8062/play/a096/index.m3u8
+
+#EXTINF:-1,Telemundo
+http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
+
+#EXTINF:-1,azteca 7
+http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
+
+#EXTINF:-1,univision
+http://tv.teleclub.xyz/stream/Mundo/UNIVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="",LIFETIME
+http://magmas5.com:8000/malotv/gratis/4979
+
+#EXTINF:-1,CNN Español
+http://magmas5.com:8000/malotv/gratis/4853
+
+#EXTINF:-1,Canal de Las estrellas
+http://45.232.210.1:8062/play/a093/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
