@@ -71,13 +71,13 @@ https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/f27f5e8
 http://magmas5.com:8000/malotv/gratis/131985
 
 #EXTINF:-1,TyCSports
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+http://200.24.132.99:8000/play/a024
 
 #EXTINF:-1,GolTV
 http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8 
 
 #EXTINF:-1,directv
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 
 #EXTINF:-1,directv2
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8 
@@ -221,7 +221,7 @@ http://magmas5.com:8000/malotv/gratis/4802
 http://magmas5.com:8000/malotv/gratis/4803
 
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="",CINECANAL
-http://magmas5.com:8000/malotv/gratis/4805
+http://200.24.132.99:8000/play/a02n
 
 #EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.imgur.com/8fdvFWP.png" group-title="",CINEMA DINAMITA
 http://magmas5.com:8000/malotv/gratis/4806
